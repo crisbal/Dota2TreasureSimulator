@@ -1,4 +1,13 @@
-Ideas:
+# Dota 2 Treasure Simulator
+
+## TODO
+* Improve JS
+* Improve SCSS
+* Improve everything
+* Add Features
+
+
+## Suggestions from reddit
 
 - Gray out items
 - Total money spent
@@ -13,7 +22,8 @@ Gamifications:
 - Gamble
 - Random Events
 
+## LICENSE
 
-https://steamcommunity.com/market/priceoverview/?currency=3&appid=570&market_hash_name=Expired Treasure of the Shaper's Legacy
+MIT
 
 
