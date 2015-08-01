@@ -1,0 +1,210 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.common {
+  color: #B0C3D9; }
+
+.uncommon {
+  color: #5E98D9; }
+
+.rare {
+  color: #4B69FF; }
+
+.mythical {
+  color: #8847FF; }
+
+.legendary {
+  color: #D32CE6; }
+
+.immortal {
+  color: #E4AE33; }
+
+.center {
+  text-align: center; }
+
+html, body {
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+  height: 100%;
+  background-image: url("http://cdn.dota2.com/apps/dota2/images/reborn/updates/background_stone.jpg");
+  background-repeat: repeat-y !important; }
+
+button {
+  border: 0;
+  background-color: #202125;
+  padding: 0.5em 1.5em;
+  color: white;
+  letter-spacing: 1.5px; }
+  button:hover, button:active {
+    background-color: #2A2E31;
+    box-shadow: 0 0 40px rgba(255, 255, 255, 0.08);
+    cursor: pointer; }
+
+header {
+  padding: 1em;
+  background-color: black; }
+  header #logo {
+    vertical-align: middle; }
+  header #title {
+    color: #ed3b1c;
+    font-size: 3em;
+    text-transform: uppercase;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 0.3em; }
+  header #subtitle {
+    background-color: #ed3b1c;
+    font-size: 1.3em;
+    display: inline-block;
+    margin-left: 1em;
+    padding: 0.25em 0.5em;
+    vertical-align: middle; }
+  header #filter {
+    float: right;
+    margin-top: 1.37em;
+    margin-right: 1.25em;
+    height: 2em;
+    color: #a9bbab;
+    background-color: #383c3d;
+    border: 0;
+    padding: 1em; }
+  header #backButton {
+    background-color: #202125;
+    color: #a9bbab;
+    padding: 0.5em;
+    font-size: 1.5em;
+    display: inline-block;
+    margin-right: 0.75em;
+    vertical-align: middle;
+    border-radius: 4px; }
+    header #backButton:hover {
+      background-color: #2A2E31;
+      cursor: pointer; }
+
+#home #modal {
+  text-align: left; }
+  #home #modal p {
+    font-size: 1.1em; }
+  #home #modal button {
+    font-size: 1.3em;
+    margin: 0 auto;
+    display: inline-block; }
+  #home #modal .modalTitle {
+    color: #ed3b1c; }
+  #home #modal i {
+    color: #ed3b1c; }
+  #home #modal a {
+    color: #ed3b1c;
+    font-weight: bold; }
+    #home #modal a:hover {
+      text-decoration: underline; }
+#home .treasures {
+  width: 100%;
+  text-align: center; }
+  #home .treasures .treasureWrapper {
+    display: inline-block;
+    padding: 1.5em;
+    width: 20em; }
+    #home .treasures .treasureWrapper .treasure {
+      background-color: rgba(0, 0, 0, 0.6);
+      text-align: center;
+      color: #808080;
+      text-shadow: 1px 1px 1px black;
+      padding: 1em;
+      word-wrap: break-word; }
+      #home .treasures .treasureWrapper .treasure img {
+        width: 100%; }
+      #home .treasures .treasureWrapper .treasure:hover {
+        box-shadow: 0 0 8px rgba(255, 255, 255, 0.6);
+        transition: 0.2s all ease-in-out; }
+
+#treasure #modalTreasure {
+  text-align: left; }
+  #treasure #modalTreasure button {
+    font-size: 1.3em;
+    margin: 0 auto;
+    display: inline-block; }
+  #treasure #modalTreasure .modalTitle {
+    color: #ed3b1c; }
+  #treasure #modalTreasure i {
+    color: #ed3b1c; }
+  #treasure #modalTreasure a {
+    color: #ed3b1c;
+    font-weight: bold; }
+    #treasure #modalTreasure a:hover {
+      text-decoration: underline; }
+#treasure section {
+  margin: 2em;
+  padding: 1em;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #808080;
+  text-shadow: 1px 1px 1px black;
+  text-align: center; }
+  #treasure section img {
+    box-shadow: 0 0 3px rgba(255, 255, 255, 0.3); }
+#treasure #treasureName {
+  font-size: 2em;
+  color: #ed3b1c; }
+#treasure #openTreasure {
+  font-size: 1.5em; }
+#treasure .loots .loot {
+  display: inline-block;
+  margin: 0.3em; }
+  #treasure .loots .loot .lootImage {
+    width: 13em; }
+
+#modalWrapper, #modalTreasureWrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  text-align: center; }
+  #modalWrapper #modal, #modalWrapper #modalTreasure, #modalTreasureWrapper #modal, #modalTreasureWrapper #modalTreasure {
+    max-width: 90%;
+    max-height: 90%;
+    overflow: auto;
+    position: relative;
+    display: inline-block;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 1.5em 5em;
+    background-color: #111214;
+    color: #EBEBED;
+    text-shadow: 1px 1px 1px black;
+    box-shadow: 0 0 80px rgba(255, 255, 255, 0.05); }
+    #modalWrapper #modal #itemName, #modalWrapper #modalTreasure #itemName, #modalTreasureWrapper #modal #itemName, #modalTreasureWrapper #modalTreasure #itemName {
+      font-size: 1.5em;
+      font-weight: bold; }
+    #modalWrapper #modal #itemRarity, #modalWrapper #modalTreasure #itemRarity, #modalTreasureWrapper #modal #itemRarity, #modalTreasureWrapper #modalTreasure #itemRarity {
+      margin-bottom: 0.5em;
+      font-weight: bold;
+      text-transform: capitalize; }
+    #modalWrapper #modal #itemImage, #modalWrapper #modalTreasure #itemImage, #modalTreasureWrapper #modal #itemImage, #modalTreasureWrapper #modalTreasure #itemImage {
+      width: 17em; }
+    #modalWrapper #modal #openAnother, #modalWrapper #modalTreasure #openAnother, #modalTreasureWrapper #modal #openAnother, #modalTreasureWrapper #modalTreasure #openAnother {
+      margin-top: 2em;
+      font-size: 1.25em; }
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100000;
+  background-color: #383c3d;
+  color: #a9bbab;
+  padding: 0.5em;
+  text-align: center; }
+  footer .stat {
+    display: inline-block;
+    margin-right: 1.5em; }
+
+a {
+  color: black;
+  text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */

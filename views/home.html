@@ -1,0 +1,67 @@
+<div id="home">
+  <header>
+    <img id="logo" src="http://cdn.dota2.com/apps/dota2/images/reborn/day1/Dota2OrangeLogo.png" alt="Dota 2 Treasure Simulator">
+    <div id="title">Dota 2</div>
+    <div id="subtitle">Treasure Simulator</div>
+    <input id="filter" placeholder="Filter" ng-model="input.name" >
+  </header>
+  <main>
+    <div class="treasures">
+      <div class="treasureWrapper" ng-repeat="treasure in treasures | orderBy:'creation_date':true | filter: input">
+        <a href="#/treasure/{{treasure.id}}">
+          <div class="treasure">
+            <img src="{{ items[treasure.name].image_url }}" alt="">
+            <h4>{{treasure.name}}</h4>
+          </div>
+        </a>
+      </div>
+    </div>
+  </main>
+  
+  <footer>
+    <span class="stat">Treasures Open: {{stats.opens}}</span>
+    <span class="stat">Commons: {{stats.common}}</span>  
+    <span class="stat">Very Rare: {{stats.very_rare}}</span>  
+    <span class="stat">Extra Rare: {{stats.extra_rare}}</span>  
+    <span class="stat">Ultra Rare: {{stats.ultra_rare}}</span>  
+  </footer>
+  
+  <div id="modalWrapper" style="display:none;">
+    <div id="modal" style="padding: 1.5em;">
+      <h2 class="modalTitle">Welcome!</h2>
+      <br>
+      <p>
+        Welcome to <i>Dota 2 Treasure Simulator</i>!        
+      </p>
+      <p>
+        This popup is <i>annoying</i> but I need it to explain a few things.
+      </p>
+      <br>
+      <div class="center">
+        <button style="font-size: 1em">Don't bother me! HATS! HATS!</button>
+      </div>
+      <br>
+      <p>
+        This is the <i>first version</i>, it only has a few, simple features but it is a start!
+      </p>
+      <br>
+      <p>
+        This is the <i>main page</i>, here you see all the available treasures in the Dota 2 Universe.
+      </p>
+      <p>You can <i>filter</i> them by name using the box in the top-right.</p>
+      <br>
+      <p>
+        <i>Click</i> on a treasure and you will get redirected to the <i>Open Treasure</i> page.<br>
+      </p>
+      <br>
+      <p>Join me on <a href="reddit.com/r/dota2treasuresimulator">/r/dota2treasuresimulator</a> to read about updates, to report bugs or to make a feature suggestion.</p>
+      <p>Source Code on <a href="github.com">GitHub</a></p>
+      <p>BTC Donations: <i>14o1SfcrfNN66ybbR99N6NvTaAjmUHuzxS</i></p>
+      <br><br>
+      <div class="center">
+        <button>GOT IT!</button>
+      </div>
+    </div>
+  </div>
+
+</div>

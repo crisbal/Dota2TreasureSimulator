@@ -1,0 +1,86 @@
+<div id="treasure">
+  <header>
+    <a href="../#/"><div id="backButton">&lt;</div></a>
+    <img id="logo" src="http://cdn.dota2.com/apps/dota2/images/reborn/day1/Dota2OrangeLogo.png" alt="Dota 2 Treasure Simulator">
+    <div id="title">Dota 2</div>
+    <div id="subtitle">Treasure Simulator</div>
+    <input id="filter" placeholder="Filter" ng-model="input.name" >
+  </header>
+  
+  <section>
+    <div id="treasureName">{{treasure.name}}</div>
+    <br>
+    <img src="{{ items[treasure.name].image_url }}" alt="">
+    <br>
+    <br>
+    <button id="openTreasure" ng-click="openTreasure();">OPEN</button>
+  </section>
+  
+  <section class="loots">
+    <h3>Regular Loot</h3>
+    <div class="loot" ng-repeat="loot in treasure.common_loot">
+      <img class="lootImage" src="{{items[loot.name].image_url}}" alt="">
+    </div>
+  </section>
+  <section class="loots">
+    <h3>Very Rare Loot</h3>
+    <div class="loot" ng-repeat="loot in treasure.very_rare_loot">
+      <img class="lootImage" src="{{items[loot.name].image_url}}" alt="">
+    </div>
+  </section>
+  <section class="loots">
+    <h3>Extremely Rare Loot</h3>
+    <div class="loot" ng-repeat="loot in treasure.extra_rare_loot">
+      <img class="lootImage" src="{{items[loot.name].image_url}}" alt="">
+    </div>
+  </section>
+  <section class="loots">
+    <h3>Ultra Rare Loot</h3>
+    <div class="loot" ng-repeat="loot in treasure.unusual_loot">
+      <img class="lootImage" src="{{items[loot.name].image_url}}" alt="">
+    </div>
+  </section>
+
+  <footer>
+    <span class="stat">Treasures Open: {{stats.opens}}</span>
+    <span class="stat">Commons: {{stats.common}}</span>  
+    <span class="stat">Very Rare: {{stats.very_rare}}</span>  
+    <span class="stat">Extra Rare: {{stats.extra_rare}}</span>  
+    <span class="stat">Ultra Rare: {{stats.ultra_rare}}</span>  
+  </footer>
+
+  <div id="modalWrapper" style="display:none;">
+    <div id="modal">
+      <div id="itemName">{{item.name}}</div>
+      <div id="itemRarity">{{loot_rarity}}<span class="{{item.rarity}}">{{item.rarity}}</span></div>
+      <img id="itemImage" src="{{item.image_url}}" alt="">
+      <br>
+      <button id="openAnother" ng-click="openTreasure();">ANOTHER</button>
+    </div>
+  </div>
+
+  <div id="modalTreasureWrapper" style="display:none;">
+    <div id="modalTreasure" style="padding: 1.5em;">
+      <h2 class="modalTitle">Treasure Page</h2>
+      <br>
+      <p>It's me again! The <i>annoying popup</i>!</p>
+      <br>
+      <p>Here you can see what's inside the treasure before opening it!</p>
+      <br>
+      <p><i>Very Rare loots</i> has a <i>1/20</i> chance of dropping.</p>
+      <p><i>Extra Rare loots</i> has a <i>1/50</i> chance of dropping.</p>
+      <p><i>Ultra Rare loots</i> has a <i>1/250</i> chance of dropping.</p>
+      <br>
+      <p>Press <i>OPEN</i> to open the treasure.</p>
+      <p>Keep tapping the <i>Space</i> key to <i>open another treasure</i> without pressing the button.</p>
+      <br>
+      <p><i>IF</i> you find Extra Rare or Ultra Rare loot a <i>sound</i> will play.</p> <p>To open the next treasure you will need to <i>manually click the button</i> (so you can enjoy your rare find).</p>
+      <br>
+      <p>I won't bother you again! Sorry :)</p>
+      <br>
+      <div class="center">
+        <button>GOT IT!</button>
+      </div>
+    </div>
+  </div>
+</div>

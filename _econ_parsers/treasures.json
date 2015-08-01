@@ -1,0 +1,8764 @@
+[{
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the BZZ", 
+  "common_loot": [
+   {
+    "name": "Nether Lord's Regalia Set", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Nether Lord's Regalia Set", 
+    "drop_rate": "common"
+   },
+   {
+    "name": "Nether Lord's Regalia Set", 
+    "drop_rate": "common"
+   },
+   {
+    "name": "Nether Lord's Regalia Set", 
+    "drop_rate": "common"
+   },
+   {
+    "name": "Nether Lord's Regalia Set", 
+    "drop_rate": "common"
+   },
+   {
+    "name": "Nether Lord's Regalia Set", 
+    "drop_rate": "common"
+   },
+   {
+    "name": "Nether Lord's Regalia Set", 
+    "drop_rate": "common"
+   },
+   {
+    "name": "Nether Lord's Regalia Set", 
+    "drop_rate": "common"
+   },
+   {
+    "name": "Nether Lord's Regalia Set", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Nether Lord's Regalia Set", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Nether Lord's Regalia Set", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   
+  ], 
+  "extra_rare_loot": [
+   
+  ], 
+  "price_info": {
+   "date": "9/30/2014", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-06-26", 
+  "id": "696969"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Summit's Peak", 
+  "common_loot": [
+   {
+    "name": "Relics of the Sundered King", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dreadhawk Armor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hidden Flower", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dame de Carreau", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "The Maniacal Machinist", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Rainmaker MK.VII", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "9/30/2014", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-09-26", 
+  "id": "10881"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Hallowed Lands", 
+  "common_loot": [
+   {
+    "name": "Spectral Conservator", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Drowned Horseman", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Favors of the Shamanic Light", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rite of the Acolyte Priest", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "The Arch Temptress", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "price_info": {
+   "date": "1/22/2015", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-01-22", 
+  "id": "11110"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Forgotten Myth", 
+  "common_loot": [
+   {
+    "name": "Umbra Rider", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Scorched Fletcher", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rider of Avarice", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bloody Ripper", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Arms of the Onyx Crucible", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Bindings of the Trapper", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "price_info": {
+   "date": "3/17/2015", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-03-17", 
+  "id": "11115"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Shaper's Legacy", 
+  "common_loot": [
+   {
+    "name": "Divine Ascension", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blessings of the Wildwing", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Equine Emissary", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Garments of the Nightsilver Sentinel", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Featherfall", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Designs of the Slithereen Nobility", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Winter Snowdrop", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Flight of the Crescent Moon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Aspects of Summer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Light of the Solar Divine", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [
+   {
+    "name": "Shadow Flame", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-04-01", 
+  "id": "15714"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Cryptic Beacon", 
+  "common_loot": [
+   {
+    "name": "Thundering Flail", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ceaseless Sorcery", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Diabolic Aspect", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shattered Greatsword", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shaper's Relics", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Pipe of Dezun", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2015-02-03", 
+  "id": "11135"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Crucible Jewel", 
+  "common_loot": [
+   {
+    "name": "Battletrap", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dreadhawk Armor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Frozen Blood", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tribal Terror", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eternal Fire", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eldwurm's Touch", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hunter with No Name", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dark Angel", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Keen Machine", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Warcog", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Errant Soldier", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Treasure of the Deep", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rightful Heir", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Relentless Warbringer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Defender of Matriarch", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ghastly Matriarch", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Worldforger", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hidden Flower", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Guise of the Winged Bolt", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Firestarter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Agaric Flourish", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Vestments of the Infinite Waves", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Relics of the Sundered King", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Transmuted Armaments", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Father of the Forest", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dame de Carreau", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wrath of Ka", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Mourning Mother", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Blazing Superiority", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rising Chaos", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Array of Tranquility", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Iceborn Trinity", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Legacy of Infernal Wings", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eternal Nymph", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Azure Constellation", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cicatrix Regalia", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The World Splitter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sanguine Royalty", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Unbroken Stallion", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Heirlooms of Aeol Drias", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ocean Conqueror", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Engulfing Spike", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The True Crow", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Obsidian Guard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Witch Hunter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Debts of the Nightwatchman", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Fiend Cleaver", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Imperial Relics", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Deepweed Drowner", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Volatile Firmament", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Champion of Discord", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Snowstorm Huntress", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Amberlight Raiment", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Acid Hydra", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Primeval Prophet", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dark Reef Escape", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Steam Chopper", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Resentment of the Banished Princess", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Convicts' Trophies", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Heavenly General", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Monstrous Reprisal", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sentinel of the Lucent Gate", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Armor of the Stalwart Soul", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Garb of the Consuming Tides", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cadenza Magic Master", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Acolyte of Vengeance", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crescent", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Everlasting Heat", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tempest's Wrath", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Static Lord", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Whisper of the Tribunal", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dragonterror", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Robes of the Heretic", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crystal Scavenger", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [], 
+  "creation_date": "2015-01-30", 
+  "id": "11134"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Emerald Dragon", 
+  "common_loot": [
+   {
+    "name": "Nightsilver Gryphon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Heavy Wingblade", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hookblade of Skadi", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Burning Fiend", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hell's Guide", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-07-03", 
+  "id": "10749"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Oculopus", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Frull", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mechjaw the Boxhound", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Oculopus", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Frull", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mechjaw the Boxhound", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Lockless Luckvase", 
+  "common_loot": [
+   {
+    "name": "Swift Claw", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crystal Dryad", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Soul Diffuser", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mania's Mask", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "White Sentry", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blade of Tears", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Elixir of Dragon's Breath", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Flourishing Lodestar", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Splattering Forcipule", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Inverse Bayonet", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Geodesic Eidolon", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-06-20", 
+  "id": "10748"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Beaver Knight", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Tangled Keepsake", 
+  "common_loot": [
+   {
+    "name": "Sanguine Royalty", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The World Splitter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Everlasting Heat", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Heavenly General", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cicatrix Regalia", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Twin Blades Assassin", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Beaver Knight Bundle", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "7/3/2014", 
+   "price": "249", 
+   "bucket": "Firesale", 
+   "class": "Key", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-06-30", 
+  "id": "10741"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Beaver Knight", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Elemental Trophy", 
+  "common_loot": [
+   {
+    "name": "Primeval Prophet", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hunter with No Name", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dark Angel", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Treasure of the Deep", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Static Lord", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Timberthaw", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Beaver Knight Bundle", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "7/3/2014", 
+   "price": "249", 
+   "bucket": "Firesale", 
+   "class": "Key", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-06-30", 
+  "id": "10740"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Prismatic Drake", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Na'Vi's Weaselcrow", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Cluckles the Brave", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of Crystalline Chaos", 
+  "common_loot": [
+   {
+    "name": "Gramma Sharpie's Smokin' Rug", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shattered Blade of Levinthal", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ragestone Axe", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Gloried Horn of Druud", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Big Bad Bandana", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Silent Ripper", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Grampa Sharpie's Shin Shooter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Double Vision", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bottom Watcher", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Arcane Staff of the Ancients", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "15133"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Grimoire The Book Wyrm", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Onyx Eye", 
+  "common_loot": [
+   {
+    "name": "Heirlooms of Aeol Drias", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sentinel of the Lucent Gate", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Mourning Mother", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Firestarter", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Wandering Harlequin's Regalia", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Grimoire The Book Wyrm", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "8/12/2014", 
+   "price": "249", 
+   "bucket": "Normal", 
+   "class": "Key", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-08-09", 
+  "id": "12266"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Grimoire The Book Wyrm", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Mender's Palm", 
+  "common_loot": [
+   {
+    "name": "Father of the Forest", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Imperial Relics", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Array of Tranquility", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eternal Nymph", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Wandering Harlequin's Regalia", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Grimoire The Book Wyrm", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "8/12/2014", 
+   "price": "249", 
+   "bucket": "Normal", 
+   "class": "Key", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-08-09", 
+  "id": "12265"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Sunken Maiden", 
+  "common_loot": [
+   {
+    "name": "Crown of the Merciless", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Luscious Locks", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Malefic Nether Focus", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Soothsayer's Spectral Strands", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Berserker's Nethersteel Barbute", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Moonrider's Lucent Headdress", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tormentor's Diadem", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Thorned Mane", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Scientific Curiousity", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Scribbins the Scarab", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-06-12", 
+  "id": "10686"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Shattered Hourglass", 
+  "common_loot": [
+   {
+    "name": "Rigwarl's Spiny Demeanor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Flail of the Drunken Cask", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tentacles of Nether Reach", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eul's Scepter of the Magus", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Scrapper's Helm", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Defiled Stinger", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Thunder Rogue's Braid", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Heretic Enclave", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Aged Spirit of Tide", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Snapjaw", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-06-12", 
+  "id": "10685"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Immortal Treasure I 2015", 
+  "common_loot": [
+   {
+    "name": "The Barren Crown", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shock of the Anvil", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Draining Wight", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Searing Dominator", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Moonfall", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Iron Surge", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Black Nihility", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Golden Moonfall", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2015-03-31", 
+  "id": "11288"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Expired Treasure of Heroic Bounty", 
+  "common_loot": [
+   {
+    "name": "The Fires of Exort Set", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Second Disciple Set", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Brood Queen Set", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fashion of the Scorching Princess Set", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Woodland Outcast Set", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Eternal Light Set", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Stonehall Royal Guard Set", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Dread of the Gleaming Seal Set", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2013-11-12", 
+  "id": "10339"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Flightless Dod", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Sculptor's Pillar 2015", 
+  "common_loot": [
+   {
+    "name": "Blessing of the Crested Dawn", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Shaded Eulogy", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shivshell Crawler", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Gruesome Embrace", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mark of the Mistral Fiend", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Arms of the Bogatyr", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tree Punisher", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Pact of the Wurmblood", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Flightless Dod", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "7/14/2015", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-07-14", 
+  "id": "11455"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Coral the Furryfish", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Crafter's Relic", 
+  "common_loot": [
+   {
+    "name": "Deviant Metamorphosis", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hunt of the Weeping Beast", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Arms of the Captive Princess", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Garb of the Great Deluge", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wrath of the Hellrunner", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Charge of the Tundra Warden", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Flight of the Marauding Pyro", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Coral the Furryfish Bundle", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "6/24/2015", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-06-24", 
+  "id": "11451"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Tinkbot", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Waldi the Faithful", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Captain Bamboo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Itsy", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Alphid of Lecaciida", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Snowl", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mok", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Porcine Princess Penelope", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Snelfret the Snail", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Blotto and Stick", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of Rubiline Sheen", 
+  "common_loot": [
+   {
+    "name": "Style of the Occult Protector", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Star of Silence", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Diffusal Lance", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Obsidian Golem", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Enchanted Manglewood Staff", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Luminous Edge", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "End of Order", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Last Judgment", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mistblade", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mistral Braid", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Izoku", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Arcs of Manta Pack", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-09-05", 
+  "id": "10319"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Red Mist", 
+  "common_loot": [
+   {
+    "name": "Berserker's Pauldron", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Berserker's Belt", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Berserker's Helm", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Demon Blood Armor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Demon Blood Helm", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Demon Blood Guard", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: First Blood", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10022"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Lost Treasure of the Ivory Isles", 
+  "common_loot": [
+   {
+    "name": "Prey-Tracker's Aspect Mask", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Relic Blade of the Kuur-Ishiminari", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Four-Fangs the Swordbreaker", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "100-Proof Jug", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Stoic Mask of the High Plains", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: Godlike", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10020"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of Profound Mysteries", 
+  "common_loot": [
+   {
+    "name": "Cape of the Burning Cabal", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bracers of Profound Perfection", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hood of Endless Intellect", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crest of the Magus Magnus", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crest of the Burning Cabal", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cape of Arcane Artistry", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: Sunstrike Kills", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10039"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Sithil's Summer Stash", 
+  "common_loot": [
+   {
+    "name": "Wheel of Fortitude", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Deathwielder", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Demon Claive", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Timebreaker", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hammer Time", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ice Crystal Bow", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hammer of Holy Words", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ancient Mask of Intimidation", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Elemental Ice Infusion", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Dragonclaw Hook", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10036"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Babka the Bewitcher", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Rotted Gallows", 
+  "common_loot": [
+   {
+    "name": "Agaric Flourish", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Battletrap", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Legacy of Infernal Wings", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Monstrous Reprisal", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Fiend Cleaver", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ghastly Matriarch", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Champion of Discord", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eldwurm's Touch", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Echo the Locator", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Bewitcher's Bundle", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "10/28/2014", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-10-21", 
+  "id": "10939"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Antipode Couriers", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Defender's Vision", 
+  "common_loot": [
+   {
+    "name": "Steam Chopper", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Unbroken Stallion", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Warcog", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wrath of Ka", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Acid Hydra", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Antipode Couriers", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "price_info": {
+   "date": "11/11/2014", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-10-21", 
+  "id": "10930"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Genuine Treasure of the Shattered Hourglass", 
+  "common_loot": [
+   {
+    "name": "Rigwarl's Spiny Demeanor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Flail of the Drunken Cask", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tentacles of Nether Reach", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eul's Scepter of the Magus", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Scrapper's Helm", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Defiled Stinger", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Thunder Rogue's Braid", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Heretic Enclave", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Aged Spirit of Tide", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Snapjaw", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-06-19", 
+  "id": "10661"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Immortal Treasure II 2015", 
+  "common_loot": [
+   {
+    "name": "Resistive Pinfold", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Vigil Signet", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Basher Blades", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Jewel of Aeons", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rollermawster", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tormented Staff", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Arms of Desolation", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Golden Basher Blades", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2015-03-31", 
+  "id": "11291"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Trove Carafe 2015", 
+  "common_loot": [
+   {
+    "name": "Shards of Exile", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Floodmask", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Grasping Bludgeon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Staff of Perplex", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sullen Hollow", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Huntling", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Golden Trove Carafe 2015", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "7/30/2015", 
+   "price": "399", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-07-29", 
+  "id": "10953"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of Fearless Splendor", 
+  "common_loot": [
+   {
+    "name": "Flying Arrow Loading Screen", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hidden Mysteries Loading Screen", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sweet Toxin Loading Screen", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fiery Slayer Loading Screen", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Soul Devourer Loading Screen", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blueheart Maiden Loading Screen", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Teacher of the Flame Loading Screen", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crack Shot Loading Screen", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fiend Summoner Loading Screen", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-12-05", 
+  "id": "10955"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of Radiant Arms", 
+  "common_loot": [
+   {
+    "name": "Flight of the Valkyrie", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mischievous Dragon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Friend of the West", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Guardian of the Eternal Seasons", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Vestments of the Fallen Princess", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-03-12", 
+  "id": "15650"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of Dark Implements", 
+  "common_loot": [
+   {
+    "name": "Molten Genesis", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Catalyst Cap", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Heavy Tenderizer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Claive of Unyielding Stone", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blade of Cleaving Swiftness", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Flesh Ripper", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Grull the Grim Walker", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10145"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Grimsneer", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Grimsneer's Stash", 
+  "common_loot": [
+   {
+    "name": "Garb of the Frost Lord", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Emberbark", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Covert Saboteur", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Stumpgrinder", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wraps of the Winterbringer", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [], 
+  "price_info": {
+   "date": "5/14/2015", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-05-14", 
+  "id": "11364"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Prismatic Drake", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Na'Vi's Weaselcrow", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Cluckles the Brave", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Shaper Divine", 
+  "common_loot": [
+   {
+    "name": "Whirling Mind Slicer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ring Spear of Soul Diffusion", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Molten Fracture", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ancient Crasher", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crystalline Sickles", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Feral the Werebat", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Horned Mother", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cercus of Whirling Death", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ring of the Storm", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ancient Crescent", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Encore", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Wings of the Ruby Web", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-03-25", 
+  "id": "10168"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of Rarities", 
+  "common_loot": [
+   {
+    "name": "Buttercup", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hair of the Dark Magic", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Grand Blade of the Demigod", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cape of the Dark Magic", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Stormthrasher", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Vindicator", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Buttercup's Barding", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Snows of Frostivus", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fashion of Yoskreth", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fireborn Odachi", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Fireborn Odachi", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10166"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Prismatic Drake", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Na'Vi's Weaselcrow", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Cluckles the Brave", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Cursed Wood", 
+  "common_loot": [
+   {
+    "name": "Ormr the Lunar Dragon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fishy Frillhawk", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Radiant Crystal Haul", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Spottin' Goggles", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ambinderath's Jaw", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Scepter of the Grand Magus", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Instagib OSP", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Battle Banner of the Masked", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wraps of the Seasoned Veteran", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Bessy the Batmeleon", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10165"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Prismatic Drake", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Na'Vi's Weaselcrow", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Cluckles the Brave", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of Crystalline Chaos", 
+  "common_loot": [
+   {
+    "name": "Gramma Sharpie's Smokin' Rug", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shattered Blade of Levinthal", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ragestone Axe", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Gloried Horn of Druud", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Big Bad Bandana", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Silent Ripper", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Grampa Sharpie's Shin Shooter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Double Vision", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bottom Watcher", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Arcane Staff of the Ancients", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10161"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Jumo", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Fractured Prism", 
+  "common_loot": [
+   {
+    "name": "Spider of Purple Nightmare", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fire Dragon of Doom", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sinister Lightning", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Warlord of Hell", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Jumo", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-08-12", 
+  "id": "10830"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Flightless Dod", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Imbued Sculptor's Pillar 2015", 
+  "common_loot": [
+   {
+    "name": "Blessing of the Crested Dawn", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Shaded Eulogy", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shivshell Crawler", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Gruesome Embrace", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mark of the Mistral Fiend", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Arms of the Bogatyr", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tree Punisher", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Pact of the Wurmblood", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Flightless Dod", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2015-04-24", 
+  "id": "11326"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Imbued Golden Trove Carafe 2015", 
+  "common_loot": [
+   {
+    "name": "Golden Staff of Perplex", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Floodmask", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Grasping Bludgeon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Shards of Exile", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Venoling", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Sullen Hollow", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Huntling", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [], 
+  "creation_date": "2015-04-24", 
+  "id": "11325"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Welcoming Chest", 
+  "common_loot": [
+   {
+    "name": "Greathelm of the Chiseled Guard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mantle of Eldritch Ice", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mantle of Hell's Ambassador", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cowl of the Blood Stained Sands", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Circlet of the Northern Wind", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Helm of the Twisted Arc", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sandworn Visage of the Ancient Sovereign", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dreadknight Pauldron", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Storm-Stealer's Whip", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blindfold from the Gloom", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dreadknight Crown", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wolfhound Rifle", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Artificer's Hammer", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Master Artificer's Hammer", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2013-11-21", 
+  "id": "10379"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Expired Locked Gemstone Cache", 
+  "common_loot": [
+   {
+    "name": "Inscribed Gem", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [
+   {
+    "name": "Artificer's Chisel", 
+    "drop_rate": "extra_rare"
+   }, 
+   {
+    "name": "Artificer's Chisel", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2013-11-12", 
+  "id": "10371"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Lockless Luckbox", 
+  "common_loot": [
+   {
+    "name": "Nyx Assassin's Dagon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Kunkka's Shadow Blade", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crest of the Wyrm Lords", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Heaven-Piercing Pauldrons", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Chaos Knight's Armlet of Mordiggian", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Frost Owl's Beacon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Form of the Onyx Grove", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Prisoner's Anchor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Broken Shackles", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crown of the Death Priestess", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-07-24", 
+  "id": "15210"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Baekho", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Jumo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Azuremir", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the First Nexon Anniversary", 
+  "common_loot": [
+   {
+    "name": "Black Wind Raven", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dosa", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Gombangdae Dosa", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Iron Clock Knight", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-10-15", 
+  "id": "10875"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of Sinister Arcanery", 
+  "common_loot": [
+   {
+    "name": "Whisper of the Tribunal", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Robes of the Heretic", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Frozen Blood", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tempest's Wrath", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Clock Master", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Corsair, Son of the Storm", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-04-23", 
+  "id": "10491"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Tinkbot", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baekho", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Waldi the Faithful", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Captain Bamboo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Itsy", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Alphid of Lecaciida", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Shagbark", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mok", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Arnabus the Fairy Rabbit", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Azuremir", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Deathripper", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Blotto and Stick", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Yonex's Rage", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of Earth Essence", 
+  "common_loot": [
+   {
+    "name": "Gwanji the Thunder Lizard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fallen Sword", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Chronoptic Crown", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Windweave Headband", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bramblehorn", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Elegant Stroke", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Spring's Lilium Crown", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blade of Misery", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Savage Orchid", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tsunami Blade", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Winter Solstice Fashion", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-11-06", 
+  "id": "15344"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Prismatic Drake", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Porcine Princess Penelope", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Cluckles the Brave", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of Incandescent Wax", 
+  "common_loot": [
+   {
+    "name": "Blade of Chaos Incarnate", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Scythe of Sacrifice", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eye of the Eyrie", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Graveheart Staff", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Falcon's Rise", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blade of the Black Rider", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blood Shard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Azure Shroud", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Skywrath Sentinel", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Pyre", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Peacebringer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shell Slicer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Scythe of Pestilence", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Augury's Guardian", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Skywrath Sentinel", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2013-06-07", 
+  "id": "15189"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Lockless Luckvase 2015", 
+  "common_loot": [
+   {
+    "name": "Thirst of Eztzhok Bundle", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tolling Shadows", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Razzil's Midas Knuckles", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shatterblast Crown", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Paraflare Cannon", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Venoling", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Golden Trove Carafe 2015", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "7/30/2015", 
+   "price": "399", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-07-28", 
+  "id": "11608"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Rogue Knight", 
+  "common_loot": [
+   {
+    "name": "Dressed Pauldron of the Flameguard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fluted Guard of the Swordmaster", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tayrnhelm of the Swordmaster", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Helm of the Flameguard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wuldastron the Twin-Blade of Giants", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Girth of the Swordmaster", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: Multi-Hero Storm Hammers", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10063"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Timeless Treasure of Claszureme", 
+  "common_loot": [
+   {
+    "name": "Voidkeeper's Visage", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bindings of the Rift", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shard of the Rift", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Chronite Bracers", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Timestopper", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Chronite Armor", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: Chronosphere Kills", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10064"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Wild Claw", 
+  "common_loot": [
+   {
+    "name": "Skull of the Ravager", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Quills of the Ravager", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Iron Bear's Skullcap", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Helm of a Savage Age", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Armor of a Savage Age", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Iron Bear's Cutter", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: Roshan Kills", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10065"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Sapphire Cask", 
+  "common_loot": [
+   {
+    "name": "Skittering Desolation", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Winterblight", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Serrakura", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Moon Griffon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rapiers of the Burning God", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Claddish Cudgel", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2015-01-19", 
+  "id": "11087"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Tinkbot", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Waldi the Faithful", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Captain Bamboo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Itsy", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Alphid of Lecaciida", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Snowl", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mok", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Porcine Princess Penelope", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Snelfret the Snail", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Blotto and Stick", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of Rubiline Sheen", 
+  "common_loot": [
+   {
+    "name": "Style of the Occult Protector", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Star of Silence", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Diffusal Lance", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Obsidian Golem", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Enchanted Manglewood Staff", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Luminous Edge", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "End of Order", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Last Judgment", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mistblade", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mistral Braid", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Izoku", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Arcs of Manta Pack", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-09-10", 
+  "id": "15258"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Sculptor's Pillar", 
+  "common_loot": [
+   {
+    "name": "Icewrack's Fist", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Catastrophe", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Magnificent Flame", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Dragon's Soul", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Emissary's Blade", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Enchanted Vision", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Red General's Soul Splitter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bow of the Lone Traveler", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Traxex the Drow Ranger", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Staff of the Lunar Tree", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Stone Bound Watcher", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Carty", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-06-17", 
+  "id": "10697"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Butch", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of Molten Steel", 
+  "common_loot": [
+   {
+    "name": "Eternal Fire", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rising Chaos", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Transmuted Armaments", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Deepweed Drowner", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Vanquishing Demons General", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Butch", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "5/07/2014", 
+   "price": "249", 
+   "bucket": "Normal", 
+   "class": "Key", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-05-07", 
+  "id": "10544"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Butch", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Bottled Cloud", 
+  "common_loot": [
+   {
+    "name": "The Convicts' Trophies", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Debts of the Nightwatchman", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Defender of Matriarch", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Relentless Warbringer", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Vanquishing Demons General", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Butch", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-05-07", 
+  "id": "10543"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Virtus Werebear", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Cannon's Fuse", 
+  "common_loot": [
+   {
+    "name": "Dark Reef Escape", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Witch Hunter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cadenza Magic Master", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crystal Scavenger", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Vigilante Foxes", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Virtus Werebear", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "7/1/2014", 
+   "price": "249", 
+   "bucket": "Normal", 
+   "class": "Key", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-06-30", 
+  "id": "10738"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Eternal Alliance", 
+  "common_loot": [
+   {
+    "name": "Vengeance of the Sunwarrior", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Epitaphic Bonds", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sky-High Warship", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Reminiscence of Dreams", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Ward of the Eternal Alliance", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "price_info": {
+   "date": "7/3/2014", 
+   "price": "399", 
+   "bucket": "Firesale", 
+   "class": "Rare", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-06-30", 
+  "id": "10739"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Murrissey the Smeevil", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Lockjaw the Boxhound", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Drodo the Druffin", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of Champions", 
+  "common_loot": [
+   {
+    "name": "Shoulders of the Comet's Tail", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crown of the Comet's Tail", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Champion's Belly Belt", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Spiritual Spirits", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Flail of the Great Elder", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Walrus Whacker", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shoulders of the Twelfth Day", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cloak of the Dawn", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: First Blood", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10046"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Murrissey the Smeevil", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Lockjaw the Boxhound", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Drodo the Druffin", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of Challengers", 
+  "common_loot": [
+   {
+    "name": "Vice of the West", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mask of the Many-Sighted", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sange and Yasha", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Poor Armor of the Druid", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Lucky Belly Belt", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crescent Sickle of the Druid", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shoulder of the Noble", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Spine Sword", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: First Blood", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10047"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Portfolio of Heroes Triumphant", 
+  "common_loot": [
+   {
+    "name": "Familiar Foe", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wolf Pack", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "One's Legion", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Chemical Rage", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Harbinger Comes", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tethered Spirits", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Pure Skill", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Galloping Light", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Siren's Song", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Burning Trio", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Guardians of Nature", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blade and Bow", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Prisoner's Pounce", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Monument", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Stormcrafter's Assault", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-05-12", 
+  "id": "10569"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Masked Fey, Lord of Tempests", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Ram's Renewal", 
+  "common_loot": [
+   {
+    "name": "Sovereign of the Hive", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rider's Eclipse", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Regalia of the Parasol's Sting", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blessing of the Crested Umbra", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crucible of Light", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Ram's Head Armaments", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Armature of the Belligerent Ram", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Masked Fey Courier and Screen Bundle", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "2/18/2015", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-02-18", 
+  "id": "11166"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Sculptor's Monument", 
+  "common_loot": [
+   {
+    "name": "Icewrack's Fist", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Catastrophe", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Magnificent Flame", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Dragon's Soul", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Emissary's Blade", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Enchanted Vision", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Red General's Soul Splitter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bow of the Lone Traveler", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Traxex the Drow Ranger", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Staff of the Lunar Tree", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Stone Bound Watcher", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Carty", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-06-20", 
+  "id": "10711"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Hero's Heirloom", 
+  "common_loot": [
+   {
+    "name": "The Great Calamity", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mortar Forge", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bestowments of the Divine Anchor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Redpaw", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Wolf Hunter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dragonfire", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Lord of the Scouring Dunes", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Ahm'Hedoq the Maw", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Scorching Talon", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-07-19", 
+  "id": "10718"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Almond the Frondillo Golden Upgrade", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Immortal Treasure III 2015", 
+  "common_loot": [
+   {
+    "name": "Sufferwood Sapling", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Focal Resonance", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Colossal Crystal Chorus", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Atomic Ray Thrusters", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bonkers the Mad", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Magus Apex", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Piston Impaler", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Righteous Thunderbolt", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Golden Atomic Ray Thrusters", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2015-03-31", 
+  "id": "11292"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Tinkbot", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baekho", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Waldi the Faithful", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Captain Bamboo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Itsy", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Alphid of Lecaciida", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Shagbark", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mok", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Arnabus the Fairy Rabbit", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Azuremir", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Deathripper", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Blotto and Stick", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Yonex's Rage", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of Ember Essence", 
+  "common_loot": [
+   {
+    "name": "Aethereal Crescent Wand", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shattered Destroyer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mattock of Distortion", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Auspice of Iczoxtotec", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Vingspan", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Slicer of the Depths", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hellfire Edge", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Celestial Bane", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hellthorn Scepter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Clergy Warhammer", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Phantom's Reaper", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-11-06", 
+  "id": "10367"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Tinkbot", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baekho", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Waldi the Faithful", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Captain Bamboo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Itsy", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Alphid of Lecaciida", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Shagbark", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mok", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Arnabus the Fairy Rabbit", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Azuremir", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Deathripper", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Blotto and Stick", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Yonex's Rage", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of Earth Essence", 
+  "common_loot": [
+   {
+    "name": "Gwanji the Thunder Lizard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fallen Sword", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Chronoptic Crown", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Windweave Headband", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bramblehorn", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Elegant Stroke", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Spring's Lilium Crown", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blade of Misery", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Savage Orchid", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tsunami Blade", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Winter Solstice Fashion", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-11-06", 
+  "id": "10366"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Imbued Lockless Luckvessel", 
+  "common_loot": [
+   {
+    "name": "Swift Claw", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crystal Dryad", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Soul Diffuser", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mania's Mask", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "White Sentry", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blade of Tears", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Elixir of Dragon's Breath", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Flourishing Lodestar", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Splattering Forcipule", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Inverse Bayonet", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Geodesic Eidolon", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-05-29", 
+  "id": "15846"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Cloven World", 
+  "common_loot": [
+   {
+    "name": "Red Guard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Furious Rune", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Horn of Luminous Crystal", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Diabolical Appendages", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Might of the Old World", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Relic Sword", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Infernal Shredder", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bloodrage Axe", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Shroomling", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Monty", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-05-13", 
+  "id": "10501"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Shrouded Myth", 
+  "common_loot": [
+   {
+    "name": "Compendium Umbra Rider", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Compendium Bloody Ripper", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Compendium Rider of Avarice", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Compendium Arms of the Onyx Crucible", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Compendium Scorched Fletcher", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Compendium Bindings of the Trapper", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2015-01-25", 
+  "id": "11107"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Endless Gaze", 
+  "common_loot": [
+   {
+    "name": "Franglerfish Watcher", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Obelisk of Foresight", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rockshell Scout", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Jungleworm Sentinel", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fallen Sight", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Stone Seer", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Spying Toadstool", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Schnapp & Spyfly", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "5/21/2015", 
+   "price": "175", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-05-21", 
+  "id": "11394"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Cosmic Abyss", 
+  "common_loot": [
+   {
+    "name": "The Blazing Superiority", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Worldforger", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Amberlight Raiment", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ocean Conqueror", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Clock Master", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Corsair, Son of the Storm", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-04-23", 
+  "id": "10528"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Champion's Chest", 
+  "common_loot": [
+   {
+    "name": "Dragon's Ascension", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Coveted Arms Cache", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Artisan of Havoc", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "War-Vestments of the Magnoceri", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mystic Instruments of Tang-Ki", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ensemble of the Crystalline Comet", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mentor of the High Plains", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Ahm'Hedoq the Maw", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Scorching Talon", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-07-19", 
+  "id": "12264"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Prismatic Drake", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Na'Vi's Weaselcrow", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Cluckles the Brave", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Forbidden Lotus", 
+  "common_loot": [
+   {
+    "name": "Ancient Slithereen Basher", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crimson Riptide", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Maw of the Devourer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Black Pool Watcher", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Riptide", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Corrupted Shard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Empowering Elements", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hellgazer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Chained Snatcher", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Salvaged Sword and Board", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Chained Chopper", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Finblade", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "15126"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of Dark Implements", 
+  "common_loot": [
+   {
+    "name": "Molten Genesis", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Catalyst Cap", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Heavy Tenderizer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Claive of Unyielding Stone", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blade of Cleaving Swiftness", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Flesh Ripper", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Grull the Grim Walker", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "15121"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Tinkbot", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Waldi the Faithful", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Captain Bamboo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Itsy", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Alphid of Lecaciida", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Snowl", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mok", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Porcine Princess Penelope", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Snelfret the Snail", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Arnabus the Fairy Rabbit", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Blotto and Stick", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Emerald Polycount Collection", 
+  "common_loot": [
+   {
+    "name": "Kraken's Bane", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Trident of the Deep One", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Meadow's Mercy", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eye of Niuhi", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Plunder of the High Seas", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Staff of Infernal Chaos", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shattered Axe of the Vanquished", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Frozen Stein of the Bar Brawler", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Grievous Grapnel", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Laments of the Dead", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ashborn Horns", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Shadow Brand", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-09-11", 
+  "id": "10325"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Prismatic Drake", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Na'Vi's Weaselcrow", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Cluckles the Brave", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Shaper Divine", 
+  "common_loot": [
+   {
+    "name": "Whirling Mind Slicer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ring Spear of Soul Diffusion", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Molten Fracture", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ancient Crasher", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crystalline Sickles", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Feral the Werebat", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Horned Mother", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cercus of Whirling Death", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ring of the Storm", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ancient Crescent", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Encore", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Wings of the Ruby Web", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-03-26", 
+  "id": "15146"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Prismatic Drake", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Na'Vi's Weaselcrow", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Cluckles the Brave", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Cursed Wood", 
+  "common_loot": [
+   {
+    "name": "Ormr the Lunar Dragon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fishy Frillhawk", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Radiant Crystal Haul", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Spottin' Goggles", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ambinderath's Jaw", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Scepter of the Grand Magus", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Instagib OSP", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Battle Banner of the Masked", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wraps of the Seasoned Veteran", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Bessy the Batmeleon", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-03-26", 
+  "id": "15145"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Summit's Roost", 
+  "common_loot": [
+   {
+    "name": "Baleful Hollow", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Incandescent Liturgy", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Oath of the Afflicted Soul", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tools of the Final Utterance", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Smoldering Journey", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Writhing Executioner", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Chirpy Pack", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "price_info": {
+   "date": "3/27/2015", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-03-18", 
+  "id": "11276"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Osky the Ottragon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fezzle-Feez the Magic Carpet Smeevil", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Trapjaw the Boxhound", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of Champions 2013", 
+  "common_loot": [
+   {
+    "name": "Radiant Claive", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Possessed Blade", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Craniomancer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crystalline Initio", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Spectral Light", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Helm of Infernal Despair", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Corruptor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Vengeancebound Wings", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Heat", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tribal Megadon Mask", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cranial Clap Trap", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "One Horn", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "A Bit of Boat", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-07-24", 
+  "id": "10301"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Distinguished Conqueror", 
+  "common_loot": [
+   {
+    "name": "Vesture of the Unkind Countess", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Lumberclaw", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Umbral Descent", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Vespertine Guard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Divine Flame", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Steelcrow Munitions", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Feather Sentinel", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Armor of the Moonlit Thicket", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "6/8/2015", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-06-08", 
+  "id": "11424"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Expired Treasure of Dire Arms", 
+  "common_loot": [
+   {
+    "name": "Incantations of Hell", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Hounds of Chaos", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ancient Cultist", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Trappings of the Ravenous Fiend", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Vestments of the Fallen Princess", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-03-12", 
+  "id": "10468"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Expired Treasure of Radiant Arms", 
+  "common_loot": [
+   {
+    "name": "Flight of the Valkyrie", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mischievous Dragon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Friend of the West", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Guardian of the Eternal Seasons", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Vestments of the Fallen Princess", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-03-12", 
+  "id": "10469"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Prismatic Drake", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Porcine Princess Penelope", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Cluckles the Brave", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Malignant Amanita", 
+  "common_loot": [
+   {
+    "name": "Taunt: Victory Jig", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Taunt: Come and Get It!", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Taunt: For Death and Honor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Stalwart Sentinel", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tear of Agony", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hammer of the Skygods", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Taunt: Shredding the Lute Invisible", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Gloomblade", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cursed Crescent", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Taunt: Spider Shuffle", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Eye of Omoz", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-05-08", 
+  "id": "15164"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [{
+    "name": "Faceless Rex", 
+    "drop_rate": "extra_rare"
+   }], 
+  "name": "The International 2015 Collector's Cache", 
+  "common_loot": [
+   {
+    "name": "Beacon of Cerulean Light", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Apostle of Decay", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Flowersong Tempest", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Flowing Entropy", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Armor of the Unyielding Mask", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Echoes of the Eyrie", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Garb of the Cunning Augur", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Brawler of the Glacier Sea", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Serpent of the Emerald Sea", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fires of Vashundol", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Knight of the Burning Scale", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "The International 2015 - 11 Compendium Levels", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   
+  ], 
+  "price_info": {
+   "date": "6/1/2015", 
+   "price": "199", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-06-01", 
+  "id": "10924"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Jin and Yin Fox Spirits", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Trapper's Pelt", 
+  "common_loot": [
+   {
+    "name": "Vestments of the Infinite Waves", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rightful Heir", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crescent", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tribal Terror", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "The Iron Claw", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Jin and Yin Fox Spirits", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "6/4/2014", 
+   "price": "249", 
+   "bucket": "Normal", 
+   "class": "Key", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-05-29", 
+  "id": "10678"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Trove Cask", 
+  "common_loot": [
+   {
+    "name": "Pale Mausoleum", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Lamb to the Slaughter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Empyrean", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Gravelmaw", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Severing Crest", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Doomling", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-05-29", 
+  "id": "10673"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Trove Carafe", 
+  "common_loot": [
+   {
+    "name": "Pale Mausoleum", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Lamb to the Slaughter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Empyrean", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Gravelmaw", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Severing Crest", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Doomling", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-05-29", 
+  "id": "10672"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Jin and Yin Fox Spirits", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Silver Storm", 
+  "common_loot": [
+   {
+    "name": "Garb of the Consuming Tides", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Acolyte of Vengeance", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Resentment of the Banished Princess", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dragonterror", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Venomous Deathbringer", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Jin and Yin Fox Spirits", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-05-29", 
+  "id": "10676"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Golden Trove Cask", 
+  "common_loot": [
+   {
+    "name": "Golden Gravelmaw", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Pale Mausoleum", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Severing Crest", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Empyrean", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Lamb to the Slaughter", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Golden Doomling", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-05-29", 
+  "id": "10674"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Deep Druids", 
+  "common_loot": [
+   {
+    "name": "Flared Wooden Crest", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Diadem of the Goddess Enthroned", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cape of Verdant Dreaming", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Luxuriant Chin-Foliage", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Beard of Cycles", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: Gold Earned", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10021"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of Dire Arms", 
+  "common_loot": [
+   {
+    "name": "Incantations of Hell", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Hounds of Chaos", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ancient Cultist", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Trappings of the Ravenous Fiend", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Vestments of the Fallen Princess", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-03-12", 
+  "id": "15648"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Dreamer's Flame", 
+  "common_loot": [
+   {
+    "name": "Splintering Awe", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sizzling Charge", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Vindictive Protector", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wyvern Skin", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Shooting Star", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "price_info": {
+   "date": "5/21/2015", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-05-20", 
+  "id": "11393"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Hunted Dragon", 
+  "common_loot": [
+   {
+    "name": "Dragonmaw", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wyrm Skirt of Uldorak", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shield of the Drake", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Edge of the Slain Dragon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Armor of the Drake", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Helmet of the Drake", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wyrm Helm of Uldorak", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Announcer: Dr. Kleiner", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10135"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Silent Grove", 
+  "common_loot": [
+   {
+    "name": "Cold Case Bow", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Pincher Bow", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sylvan Guard's Dress Armor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Frost Spikes", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sylvan Guard's Cape", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sylvan Guard's Hair", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sylvan Guard's Bow", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: First Blood", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10136"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Twins", 
+  "common_loot": [
+   {
+    "name": "Spinal Slicer - Off-Hand", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hlotl-Tusk Headdress of the Seeker", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bonehunter Spineguard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Habit of the Seeker", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bonehunter Slicer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Spinal Slicer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bonehunter Slicer - Off-Hand", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bonehunter Skullguard", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Announcer: Death Prophet", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10138"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Tinkbot", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baekho", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Waldi the Faithful", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Captain Bamboo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Itsy", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tory the Sky Guardian", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Alphid of Lecaciida", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Shagbark", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mok", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Arnabus the Fairy Rabbit", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Azuremir", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Deathripper", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Coco the Courageous", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Blotto and Stick", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Yonex's Rage", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Frosty Treasure of Frostivus", 
+  "common_loot": [
+   {
+    "name": "Snowball Stinger", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mokkin, the Ancient Conductor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Heaven Sent", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Barrel of Whale Ale", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Scintillant Sting", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Midnight Locks", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Frozen Formation", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bow of the Serpent", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Warlock's Summoning Scroll", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sceptre of the Throne", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blueheart Tails", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Stoneforged Horns", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10139"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Tinkbot", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baekho", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Waldi the Faithful", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Captain Bamboo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Itsy", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Alphid of Lecaciida", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Shagbark", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mok", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Arnabus the Fairy Rabbit", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Azuremir", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Deathripper", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Hollow Jack", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Blotto and Stick", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Yonex's Rage", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Ghastly Treasure of Diretide", 
+  "common_loot": [
+   {
+    "name": "Torchbearer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Demonic Collar", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Spell Devourer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Icewrack Pack", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dorsal Doom", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crown of Omoz", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hook of the Sorrowful Prey", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mr. Depth Driller", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Lighted Scepter of Serendipity", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dark Tracer", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Hallowed Horde", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10095"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Omniscient", 
+  "common_loot": [
+   {
+    "name": "Hammer of Light Inexorable", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Omniscient's Maul", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Helm of the Radiant Crusader", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hammer of Holy Words", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ornate Mantle of Renewed Faith", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hammer of Enlightenment", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Warhammer of Renewed Faith", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cape of Thunderwrath's Calling", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Radiant Ore", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10152"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Restless Seas", 
+  "common_loot": [
+   {
+    "name": "Wheel of Fortitude", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Royal Admiral's Bicorne", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Grand Curls of the Admirable Admiral", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Raw Hide", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sword of the Seventy-Seven Seas", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hammer Time", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Excavator's Decorated Treasure", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Pride of the Crew", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sword of the Admirable Admiral", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Radiant Ore", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10153"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of Tidal Power", 
+  "common_loot": [
+   {
+    "name": "Shoulders of the Comet's Tail", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crown of the Comet's Tail", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Direstone Pauldrons", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Birot's Crests of Dignity", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crown of Polymorphia", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Direstone Crown", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Birot's Helm of Dignity", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Direstone", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10154"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Prismatic Drake", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Na'Vi's Weaselcrow", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Cluckles the Brave", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Forbidden Lotus", 
+  "common_loot": [
+   {
+    "name": "Ancient Slithereen Basher", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crimson Riptide", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Maw of the Devourer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Black Pool Watcher", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Riptide", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Corrupted Shard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Empowering Elements", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hellgazer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Chained Snatcher", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Salvaged Sword and Board", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Chained Chopper", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Finblade", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10155"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Tinkbot", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baekho", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Waldi the Faithful", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Captain Bamboo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Itsy", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tory the Sky Guardian", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Alphid of Lecaciida", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Shagbark", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mok", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Arnabus the Fairy Rabbit", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Azuremir", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Deathripper", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Coco the Courageous", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Blotto and Stick", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Throe", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Yonex's Rage", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of Vermilion Renewal", 
+  "common_loot": [
+   {
+    "name": "Staff of the Enduring Colt", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Curse of the New Season", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Charming Assassin Curls", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Healing Fount of the Lost Isles", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Living Nelum", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Jade Talon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Equine Battlehelm", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fortune's Coin", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dragon's Breath", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Dragon Horse Spirit Totem", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-01-22", 
+  "id": "10408"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Blessed Luckvessel", 
+  "common_loot": [
+   {
+    "name": "Molten Claw", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fluttering Staff", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bloodfeather Wings", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Barb of Skadi", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hell's Usher", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "The Golden Barb of Skadi", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-12-10", 
+  "id": "10984"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Hexgill the Lane Shark", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Frosted Flame", 
+  "common_loot": [
+   {
+    "name": "The True Crow", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Keen Machine", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Errant Soldier", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Guise of the Winged Bolt", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Azure Constellation", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "The Igneous Stone", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Hexgill the Lane Shark", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "12/10/2014", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-12-09", 
+  "id": "10981"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Nested Cache", 
+  "common_loot": [
+   {
+    "name": "Treasure of the Cannon's Fuse", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Treasure of Molten Steel", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Treasure of the Forged Fury", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Treasure of the Trapper's Pelt", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Treasure of the Tangled Keepsake", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Treasure of the Frosted Flame", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Treasure of the Mender's Palm", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Treasure of the Elemental Trophy", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Treasure of the Defender's Vision", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Treasure of the Rotted Gallows", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Treasure of the Onyx Eye", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Frostivus Treasure Redemption Token", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "price_info": {
+   "date": "12/11/2014", 
+   "price": "175", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-12-10", 
+  "id": "10982"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Golden Trove Carafe 2015", 
+  "common_loot": [
+   {
+    "name": "Golden Staff of Perplex", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Floodmask", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Grasping Bludgeon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Shards of Exile", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Venoling", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Sullen Hollow", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Golden Huntling", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [], 
+  "creation_date": "2015-07-31", 
+  "id": "11637"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Crucible Jewel II", 
+  "common_loot": [
+   {
+    "name": "Battletrap", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Incandescent Liturgy", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Ram's Head Armaments", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Oath of the Afflicted Soul", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eternal Fire", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hunter with No Name", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Errant Soldier", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Treasure of the Deep", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Relics of the Sundered King", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sovereign of the Hive", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tribal Terror", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tools of the Final Utterance", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cicatrix Regalia", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The World Splitter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Defender of Matriarch", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Engulfing Spike", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Witch Hunter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Bloody Ripper", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Acid Hydra", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Champion of Discord", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sanguine Royalty", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crystal Scavenger", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fatal Blossom", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Everlasting Heat", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tempest's Wrath", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Static Lord", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Whisper of the Tribunal", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eldwurm's Touch", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Keen Machine", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sentinel of the Lucent Gate", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Smoldering Journey", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Onyx Lotus", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Vestments of the Infinite Waves", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Umbra Rider", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wrath of Ka", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Array of Tranquility", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Iceborn Trinity", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Mourning Mother", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crucible of Light", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Aspect of the Year Beast", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The True Crow", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Deepweed Drowner", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dame de Carreau", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Resentment of the Banished Princess", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Convicts' Trophies", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Armor of the Stalwart Soul", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dreadhawk Armor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Frozen Blood", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Unbroken Stallion", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dark Angel", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rightful Heir", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Arms of the Onyx Crucible", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Guise of the Winged Bolt", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hidden Flower", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Firestarter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Scorched Fletcher", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rider's Eclipse", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Blazing Superiority", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Legacy of Infernal Wings", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eternal Nymph", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Azure Constellation", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Heirlooms of Aeol Drias", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ocean Conqueror", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Raiments of the Sacrosanct", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Fiend Cleaver", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Relentless Warbringer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Amberlight Raiment", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Primeval Prophet", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Stellar Jade", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Monstrous Reprisal", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Warcog", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Garb of the Consuming Tides", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cadenza Magic Master", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ghastly Matriarch", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Worldforger", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Agaric Flourish", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Transmuted Armaments", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Father of the Forest", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rising Chaos", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Writhing Executioner", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Baleful Hollow", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Robes of the Heretic", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rider of Avarice", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Obsidian Guard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Imperial Relics", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Humble Drifter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Debts of the Nightwatchman", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Volatile Firmament", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Snowstorm Huntress", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dark Reef Escape", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Steam Chopper", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Heavenly General", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Regalia of the Parasol's Sting", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Acolyte of Vengeance", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Crescent", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blessing of the Crested Umbra", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dragonterror", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [], 
+  "creation_date": "2015-05-06", 
+  "id": "11354"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Prismatic Drake", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Porcine Princess Penelope", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Cluckles the Brave", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Malignant Amanita", 
+  "common_loot": [
+   {
+    "name": "Taunt: Victory Jig", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Taunt: Come and Get It!", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Taunt: For Death and Honor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Stalwart Sentinel", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Tear of Agony", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hammer of the Skygods", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Taunt: Shredding the Lute Invisible", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Gloomblade", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Cursed Crescent", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Taunt: Spider Shuffle", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Eye of Omoz", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-05-01", 
+  "id": "10175"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Snowl", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mok", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Prismatic Drake", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Itsy", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Porcine Princess Penelope", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Cluckles the Brave", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Snelfret the Snail", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Captain Bamboo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Quirt's Summer Stash", 
+  "common_loot": [
+   {
+    "name": "Nature's Grip", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Twin Serpent Bow", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Meat Dragger", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Evildoer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Wavecutter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Raven Scythe", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Aghanim's Basher", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Headdress of the Protector", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Flying Desolation", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shadowshards", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Stone Infusion", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Spine Splitter", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-07-05", 
+  "id": "10230"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "The International 2015 Effigy Reforger Pack", 
+  "common_loot": [
+   {
+    "name": "Effigy Reforger", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Golden Effigy Block of The International 2015", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2015-04-29", 
+  "id": "11334"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the High Tide", 
+  "common_loot": [
+   {
+    "name": "Swamp Fins", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Pirate Slayer's Black Flag", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Pirate Slayer's Tricorn", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Excavator's Treasure", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Octopus Hat", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Femur Thrasher", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: Quad Ravages", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10035"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Ancestor Spirits", 
+  "common_loot": [
+   {
+    "name": "Wooden Fetish Mask", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dreaded Dreads", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Demon Skull Staff", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Vile Carnival Hat", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Horn Mask", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Grandfather's Ribs", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: Wards Placed", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10034"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Defense Season 2 War Dog", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "The Defense 2 Chest", 
+  "common_loot": [
+   {
+    "name": "Swamp Fins", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Pirate Slayer's Black Flag", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Pirate Slayer's Tricorn", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Excavator's Treasure", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Octopus Hat", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Femur Thrasher", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: Quad Ravages", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10037"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of the Pangolin Guildmasters", 
+  "common_loot": [
+   {
+    "name": "Pangolin Shoulder Armor", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Creeper's Cruel Shuriken", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Pangolin Carapace", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shuriken of the Hidden Hunter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Harvester of the Hidden Hunter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Pangolin Scarf", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Gem Pack: Track Bounty Gold", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "1970-01-01", 
+  "id": "10032"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Prismatic Drake", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Morok's Mechanical Mediary", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Speed Demon", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Porcine Princess Penelope", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Skip the Delivery Frog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Fearless Badger", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Enduring War Dog", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tickled Tegu", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Cluckles the Brave", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baby Roshan", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mighty Boar", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Expired Treasure of Incandescent Wax", 
+  "common_loot": [
+   {
+    "name": "Blade of Chaos Incarnate", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Scythe of Sacrifice", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eye of the Eyrie", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Graveheart Staff", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Falcon's Rise", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blade of the Black Rider", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blood Shard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Azure Shroud", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Skywrath Sentinel", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Pyre", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Peacebringer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shell Slicer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Scythe of Pestilence", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Augury's Guardian", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Skywrath Sentinel", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2013-06-04", 
+  "id": "10206"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Immortal Strongbox", 
+  "common_loot": [
+   {
+    "name": "Yulsaria's Glacier", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Rampant Outrage", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Muh Keen Gun", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Sylvan Cascade", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "The Lightning Orchid", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fin King's Charm", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fluttering Mortis", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Merry Wanderer's Brush", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mecha Boots of Travel Mk III", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Kindred of the Iron Dragon", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Hellborn Grasp", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-05-23", 
+  "id": "10655"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Emoticharm 2015 Emoticon Pack 7 Bundle", 
+  "common_loot": [
+   {
+    "name": "Emoticharm 2015 Emoticon Pack 7", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Flopjaw the Boxhound", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Golden Flopjaw the Boxhound", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2015-06-04", 
+  "id": "20839"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Lil' Nova", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Forged Fury", 
+  "common_loot": [
+   {
+    "name": "Obsidian Guard", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Engulfing Spike", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Armor of the Stalwart Soul", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Volatile Firmament", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Snowstorm Huntress", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Iceborn Trinity", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Hunter of Kings", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Lil' Nova", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "9/17/2014", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2014-08-29", 
+  "id": "10865"
+ }, 
+ {
+  "prefab": "retired_treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Expired Treasure of the Shaper's Legacy", 
+  "common_loot": [
+   {
+    "name": "Divine Ascension", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Blessings of the Wildwing", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Equine Emissary", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Garments of the Nightsilver Sentinel", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Featherfall", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Designs of the Slithereen Nobility", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Winter Snowdrop", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Flight of the Crescent Moon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Aspects of Summer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Light of the Solar Divine", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [
+   {
+    "name": "Shadow Flame", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-04-01", 
+  "id": "10488"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of Gloried Visions", 
+  "common_loot": [
+   {
+    "name": "Top Lane", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Radiant Ancient", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Donkey Courier", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mid Lane", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dire Ancient", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-06-27", 
+  "id": "20577"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Tinkbot", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baekho", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Waldi the Faithful", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Captain Bamboo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Itsy", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Tory the Sky Guardian", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Alphid of Lecaciida", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Shagbark", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mok", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Arnabus the Fairy Rabbit", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Azuremir", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Deathripper", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Coco the Courageous", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Blotto and Stick", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Throe", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Yonex's Rage", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of Vermilion Renewal", 
+  "common_loot": [
+   {
+    "name": "Staff of the Enduring Colt", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Curse of the New Season", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Charming Assassin Curls", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Healing Fount of the Lost Isles", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Living Nelum", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Jade Talon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Equine Battlehelm", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fortune's Coin", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dragon's Breath", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Dragon Horse Spirit Totem", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2014-01-22", 
+  "id": "15501"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Tinkbot", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Baekho", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Waldi the Faithful", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Captain Bamboo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Itsy", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Alphid of Lecaciida", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Shagbark", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mok", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Arnabus the Fairy Rabbit", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Azuremir", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Deathripper", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Blotto and Stick", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Yonex's Rage", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of Ember Essence", 
+  "common_loot": [
+   {
+    "name": "Aethereal Crescent Wand", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shattered Destroyer", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Mattock of Distortion", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Auspice of Iczoxtotec", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Vingspan", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Slicer of the Depths", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hellfire Edge", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Celestial Bane", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Hellthorn Scepter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Clergy Warhammer", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Phantom's Reaper", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-11-06", 
+  "id": "15345"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [
+   {
+    "name": "Tinkbot", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Nimble Ben", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Waldi the Faithful", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Captain Bamboo", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "The Llama Llama", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Itsy", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Alphid of Lecaciida", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Snowl", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Kupu the Metamorpher", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Mok", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Porcine Princess Penelope", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Snelfret the Snail", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Arnabus the Fairy Rabbit", 
+    "drop_rate": "unusual"
+   }, 
+   {
+    "name": "Blotto and Stick", 
+    "drop_rate": "unusual"
+   }
+  ], 
+  "name": "Treasure of the Emerald Polycount", 
+  "common_loot": [
+   {
+    "name": "Kraken's Bane", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Trident of the Deep One", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Meadow's Mercy", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Eye of Niuhi", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Plunder of the High Seas", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Staff of Infernal Chaos", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shattered Axe of the Vanquished", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Frozen Stein of the Bar Brawler", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Grievous Grapnel", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Laments of the Dead", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Ashborn Horns", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Shadow Brand", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [], 
+  "creation_date": "2013-09-23", 
+  "id": "15265"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Diligent Artisan", 
+  "common_loot": [
+   {
+    "name": "Gauntlet of the Treacherous Demon", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Dark General's Mantle", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Burning Spear", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Seething Orbit", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Helm of Impasse", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Frost Touched Cleaver", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Shield of Stillness", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Anguilla", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Eye of Avernus", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Blood Drainer", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "creation_date": "2014-05-13", 
+  "id": "10557"
+ }, 
+ {
+  "prefab": "treasure_chest", 
+  "unusual_loot": [], 
+  "name": "Treasure of the Spring Blossom", 
+  "common_loot": [
+   {
+    "name": "Stellar Jade", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Aspect of the Year Beast", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Raiments of the Sacrosanct", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Humble Drifter", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Fatal Blossom", 
+    "drop_rate": "common"
+   }, 
+   {
+    "name": "Onyx Lotus", 
+    "drop_rate": "common"
+   }
+  ], 
+  "very_rare_loot": [
+   {
+    "name": "Might of the Thunder Ram", 
+    "drop_rate": "very_rare"
+   }
+  ], 
+  "extra_rare_loot": [
+   {
+    "name": "Gazing Idol", 
+    "drop_rate": "extra_rare"
+   }
+  ], 
+  "price_info": {
+   "date": "2/25/2015", 
+   "price": "249", 
+   "category_tags": "Treasure Keys"
+  }, 
+  "creation_date": "2015-02-24", 
+  "id": "11177"
+ }
+]
