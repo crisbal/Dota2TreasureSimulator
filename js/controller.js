@@ -8,9 +8,9 @@ var dtsController = angular.module('dtsController', []);
 dtsController.controller('HomeController', ['stats','$scope', '$http','$route',
   function(stats,$scope, $http, $route) 
   {
-    $http.get('_econ_parsers/treasures.json').success(function(treasures) {
+    $http.get('/econ_parsers/treasures.json').success(function(treasures) {
       console.log(treasures);
-      $http.get('_econ_parsers/items_detail.json').success(function(items) {
+      $http.get('/econ_parsers/items_detail.json').success(function(items) {
         console.log(items);
       
         $scope.items = items;
@@ -45,9 +45,9 @@ dtsController.controller('TreasureController', ['stats','$scope', '$routeParams'
 
 
 
-    $http.get('_econ_parsers/treasures.json').success(function(treasures) {
+    $http.get('/econ_parsers/treasures.json').success(function(treasures) {
       console.log(treasures);
-      $http.get('_econ_parsers/items_detail.json').success(function(items) {
+      $http.get('/econ_parsers/items_detail.json').success(function(items) {
         console.log(items);
         
         $scope.items = items;
