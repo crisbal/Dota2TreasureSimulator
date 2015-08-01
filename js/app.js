@@ -15,7 +15,7 @@
     function($routeProvider, $locationProvider){
       $routeProvider.
         when('/', {
-          templateUrl: '../views/home.html',
+          templateUrl: 'views/home.html',
           controller: 'HomeController'
         }).
         when('/treasure/:treasureId', {
