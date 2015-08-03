@@ -1,3 +1,8 @@
+Bug:
+
+- Already dropped items
+- Additional drop immortal
+
 Ideas:
 
 - Gray out items
