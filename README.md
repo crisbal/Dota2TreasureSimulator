@@ -6,21 +6,31 @@
 * Improve everything
 * Add Features
 
+## Missing Features
 
-## Suggestions from reddit
+* Don't drop already dropped
+* Additional Drop
 
-- Gray out items
-- Total money spent
+## Bugs
+
+* Already dropped items
+* Additional drop immortal
+* Popouts suck on mobile
+
+## Ideas
+* Gray out items
+* Total money spent
 
 
-Gamifications:
+#### Gamifications
+(Maybe later)
 
-- Custom Chests
-- Starting Money
-- Buy / Sell stuff
-- Inventory
-- Gamble
-- Random Events
+* Custom Chests
+* Starting Money
+* Buy / Sell stuff
+* Inventory
+* Gamble
+* Random Events
 
 ## LICENSE
 
